@@ -1,0 +1,8 @@
+<config>
+	<modules>
+		<Publisher_ModuleName>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Publisher_ModuleName>
+	</modules>
+</config>
