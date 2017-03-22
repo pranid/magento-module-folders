@@ -4,4 +4,46 @@
 			<version>0.1.0</version>
 		</Publisher_ModuleName>
 	</modules>
+
+	<admin>
+		<routers></routers>
+	</admin>
+
+	<global>
+		<resources>
+			<publisher_modulename_setup>
+				<setup>
+					<module>Publisher_ModuleName</module>
+					<class>Publisher_ModuleName_Model_Resource_Setup</class>
+				</setup>
+			</publisher_modulename_setup>
+		</resources>
+
+		<blocks>
+			<publisher_modulename>
+				<class>Publisher_ModuleName_Blocks</class>
+			</publisher_modulename>
+		</blocks>
+
+		<helpers>
+			<publisher_modulename>
+				<class>Publisher_ModuleName_Helper</class>
+			</publisher_modulename>
+		</helpers>
+
+		<models>
+			<publisher_modulename>
+				<class>Publisher_ModuleName_Model</class>
+				<resourceModel>publisher_modulename_resource</resourceModel>
+			</publisher_modulename>
+			<publisher_modulename_resource>
+				<class>Publisher_ModuleName_Model_Resource</class>
+				<entities>
+					<mymodel>
+						<table>mytable</table>
+					</mymodel>
+				</entities>
+			</publisher_modulename_resource>
+		</models>
+	</global>
 </config>
