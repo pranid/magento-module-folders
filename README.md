@@ -14,3 +14,4 @@ A simple folder structure with some example files.
  - http://inchoo.net/magento/create-configuration-for-your-magento-extension/
  - http://www.codexpedia.com/magento/create-read-update-and-delete-with-magento-database/
  - http://alanstorm.com/magento_controller_hello_world/
+ - http://inchoo.net/magento/getting-started-with-building-admin-module-in-magento/
