@@ -1,9 +1,6 @@
 # magento-module-folders
 Folder structure/ frame for Magento Developers
 
-[![N|Solid](http://inndeinc.com/assets/img/INNDEINC-SLOGON.png)](http://inndeinc.com/)
-
-
 A simple folder structure with some example files.
 
 ## Follow bellow links to get started with magento module development.
